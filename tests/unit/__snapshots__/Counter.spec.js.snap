@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter.vue renders component 1`] = `
+<div>
+  <div>
+    <span
+      class="count"
+    >
+      0
+    </span>
+  </div>
+   
+  <button>
+    Increments
+  </button>
+   
+  <button>
+    Decrements
+  </button>
+   
+  <button>
+    Reset
+  </button>
+</div>
+`;
