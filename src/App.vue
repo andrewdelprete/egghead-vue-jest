@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <Counter :count="5" :multiplier="4" />
+    <Counter :multiplier="4" />
   </div>
 </template>
 
