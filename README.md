@@ -11,4 +11,4 @@ yarn test:unit
 
 ## Egghead Video
 
-https://egghead.io/lessons/vue-js-getting-started-with-storybook-for-vue
+https://egghead.io/lessons/vue-js-unit-test-a-vue-component-with-jest
