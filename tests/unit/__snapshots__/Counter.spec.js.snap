@@ -5,6 +5,7 @@ exports[`Counter.vue renders component 1`] = `
   <div>
     <span
       class="count"
+      data-testid="count"
     >
       0
     </span>

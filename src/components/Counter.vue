@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div><span class="count">{{ multiplierCount }}</span></div>
+    <div><span class="count" data-testid="count">{{ multiplierCount }}</span></div>
     <button @click="increment">Increments</button>
     <button @click="decrement">Decrements</button>
     <button @click="reset">Reset</button>
