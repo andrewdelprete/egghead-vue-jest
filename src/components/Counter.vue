@@ -10,7 +10,7 @@
 <script>
 export default {
   props: {
-    multiplier: { type: Number, default: 1 },
+    multiplier: { type: Number, default: 1 }
   },
   data() {
     return {
@@ -25,11 +25,11 @@ export default {
       this.count--;
     },
     reset() {
-      this.count = 0
+      this.count = 0;
     }
   },
   computed: {
-    multiplierCount: function () {
+    multiplierCount: function() {
       return this.count * this.multiplier;
     }
   }
